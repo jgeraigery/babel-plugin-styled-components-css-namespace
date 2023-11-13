@@ -159,7 +159,7 @@
     "@babel/preset-env": "7.3.x",
     "@babel/preset-react": "7.0.x",
     "babel-eslint": "10.0.x",
-    "babel-jest": "24.1.x",
+    "babel-jest": "24.9.x",
     "babel-plugin-tester": "6.2.x",
     "eslint": "5.13.x",
     "eslint-config-prettier": "4.3.x",
