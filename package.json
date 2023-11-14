@@ -161,7 +161,7 @@
     "babel-eslint": "10.0.x",
     "babel-jest": "24.1.x",
     "babel-plugin-tester": "6.2.x",
-    "eslint": "5.13.x",
+    "eslint": "5.16.x",
     "eslint-config-prettier": "4.3.x",
     "eslint-plugin-prettier": "3.1.x",
     "eslint-plugin-react": "7.12.x",
