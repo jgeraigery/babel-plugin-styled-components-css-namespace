@@ -173,7 +173,7 @@
     "react": "16.8.x",
     "react-dom": "16.8.x",
     "react-test-renderer": "16.8.x",
-    "rimraf": "2.6.x",
+    "rimraf": "6.0.x",
     "styled-components": "4.2.x"
   }
 }
