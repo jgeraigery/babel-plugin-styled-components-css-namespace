@@ -147,7 +147,7 @@
   },
   "dependencies": {
     "@babel/types": "^7.5.0",
-    "babel-plugin-styled-components": "1.10.x",
+    "babel-plugin-styled-components": "1.13.x",
     "postcss": "7.0.x",
     "postcss-nested": "4.1.x",
     "postcss-parent-selector": "1.0.x",
